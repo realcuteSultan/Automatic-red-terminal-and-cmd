@@ -1,0 +1,6 @@
+How to use:
+Start cmd.reg (changes cmd color to red (aka color 4))
+Important : you need to put the WindowsPowershell folder in documents.
+also before  running powershell.reg you need to write this in admin terminal (powershell):
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+and you need to type "A" to confirm the changes inm terminal.
