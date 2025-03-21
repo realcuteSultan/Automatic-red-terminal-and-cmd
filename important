@@ -4,3 +4,6 @@ Important : you need to put the WindowsPowershell folder in documents.
 also before  running powershell.reg you need to write this in admin terminal (powershell):
 Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
 and you need to type "A" to confirm the changes inm terminal.
+IMPORTANT!:
+This is only work for that cmd's you open.
+If a file opens a cmd it won't work (this code).
